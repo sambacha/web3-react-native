@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "com.manifoldfinance"
+    },
+    "android": {
+      "package": "com.manifoldfinance"
+    },
+    "scheme": "web3dapp",
+    "icon": "assets/image/app-icon.png",
+    "splash": {
+      "image": "assets/image/app-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#222222"
+    }
+  }
+}
